@@ -33,9 +33,9 @@ li a {
 }
 
 .active {
-  padding: 14px 24px;
+  padding: 14px 15px;
   border-radius: 30px;
-  background-color: rgba(255, 255, 255, .3);
+  background-color: #fffff;
 }
 .active:hover {
   background-color: rgba(255, 255, 255, .1);
