@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="" />
+    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -38,9 +42,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\sammy\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
@@ -74,25 +78,30 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1607373923226" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1607631826681">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="130" key="GridCell.Tab.0.bottom" timestamp="1607634071534">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607634071534" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607631826681" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1607631826681">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="130" key="GridCell.Tab.0.center" timestamp="1607634071534">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607634071534" />
     <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607631826681" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1607631826681">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="130" key="GridCell.Tab.0.left" timestamp="1607634071534">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607634071534" />
     <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607631826681" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1607631826681">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="130" key="GridCell.Tab.0.right" timestamp="1607634071534">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="130" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607634071534" />
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607631826681" />
-    <state x="440" y="99" key="SettingsEditor" timestamp="1607631576380">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1607633975350">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1607633975350" />
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607631576380" />
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607631723360">
       <screen x="0" y="0" width="1920" height="1050" />
