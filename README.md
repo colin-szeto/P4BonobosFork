@@ -70,8 +70,12 @@ index.html, or the home page, is evidence of UI design and presentation
 
 Paul will be deploying the website on his raspberry pi
 
+##Code History
+```12/07/2020``` - Created manageable framework for the project as well as configure intelliJ
 
+```12/08/2020``` - Started and finished UI for website (homepage, database, and about page HTML and CSS)
 
+```12/09-11/2020``` - Starting to integrate SQLAlchemy into website for database
 
 
 

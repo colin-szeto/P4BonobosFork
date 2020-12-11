@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="small cahnge">
-      <change beforePath="$PROJECT_DIR$/.idea/P4Bonobos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/P4Bonobos.iml" afterDir="false" />
+    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,10 +88,31 @@
       <option name="presentableId" value="Default" />
       <updated>1607373882991</updated>
     </task>
+    <task id="LOCAL-00001" summary="did the readme">
+      <created>1607721144323</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607721144323</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="did the readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="did the readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="99" key="#Project_Structure" timestamp="1607373923226">
@@ -124,6 +143,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607659262071" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607721149408">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607721149408" />
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607631723360">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
