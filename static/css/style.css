@@ -105,7 +105,7 @@ li a {
   color:white;
   font-size:35px;
   position: relative;
-  top:75px;
+  top:50px;
 }
 
 .about-body {
@@ -116,7 +116,46 @@ li a {
   color:white;
   font-size:25px;
   position: relative;
-  top:150px;
+  top:75px;
   width:900px;
   word-break:normal;
+}
+
+.row {
+  top: 10px;
+  display: flex;
+  position: relative;
+}
+
+.column {
+  flex: 25%;
+  padding: 100px;
+}
+
+.face {
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.face-name {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color:white;
+    font-size:35px;
+}
+
+.face-text {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color:white;
+    font-size:25px;
 }
