@@ -5,19 +5,22 @@
     <link rel="stylesheet" href="../static/css/style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="media/favicon.png">
-    <title>Fax</title>
+    <title>{% block title %}Fax{% endblock %}</title>
     <video playsinline autoplay muted loop>
         <source src="../static/media/FFGBG.mp4" type="video/mp4">
     </video>
 </head>
 <body>
 <ul>
-    <li class="logo"><a href="home"><img src="../static/media/Fax-gen-logo.png" alt="Fax-gen-logo" width="55" height="55"></a></li>
+    <div class="logo">
     <li style="margin-left: 0%; position: relative; top:-3px;"><a class="title" href="home">FAX-GEN</a></li>
-    <li style="float:right"><a class="active" href="{{ url_for('login') }}">Login</a></li>
-    <li style="float:right; margin-right:15px;"><a class="active" href="about">About</a></li>
+    </div>
+    {% block loginvariant %}<li style="float:right"><a class="navbar-right" href="{{ url_for('login') }}">Login</a></li>{% endblock %}
+    <li style="float:right; margin-right:15px;"><a class="navbar-right" href="about">About</a></li>
     <li>
 </ul>
+{% block dashboard %}
+{% endblock %}
 {% block styles %}
 {% endblock %}
 {% block signup %}
@@ -29,6 +32,8 @@
 {% block databasepage %}
 {% endblock %}
 {% block aboutpage %}
+{% endblock %}
+{% block content %}
 {% endblock %}
 </body>
 </html>

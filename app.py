@@ -56,7 +56,7 @@ def login():
 				login_user(user, remember=form.remember.data)
 				return redirect(url_for('dashboard'))
 
-		return '<h1>Invalid username or password</h1>'
+		return render_template('invalid.html', form=form)
 		#return '<h1>' + form.username.data + ' ' + form.password.data + '</h1>'
 
 	return render_template('login.html', form=form)
@@ -70,8 +70,8 @@ def signup():
 		new_user = User(username=form.username.data, email=form.email.data, password=hashed_password)
 		db.session.add(new_user)
 		db.session.commit()
-
-		return '<h1>New user has been created</h1>'
+		# redirect to page when user is created
+		return render_template('usercreatedredirect.html')
 		# return '<h1>' + form.username.data + ' ' + form.email.data + ' ' + form.password.data + '</h1>'
 
 	return render_template('signup.html', form=form)
@@ -86,6 +86,8 @@ def dashboard():
 def logout():
 	logout_user()
 	return redirect(url_for('home'))
+
+
 
 
 if __name__ == "__main__":

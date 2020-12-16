@@ -33,12 +33,12 @@ li a {
   font-weight: 600;
 }
 
-.active {
+.navbar-right {
   padding: 14px 15px;
   border-radius: 30px;
   background-color: #fffff;
 }
-.active:hover {
+.navbar-right:hover {
   background-color: rgba(255, 255, 255, .1);
   transition-duration: 0.2s;
 }
@@ -46,19 +46,13 @@ li a {
   padding: 14px 24px;
   background-color: #fffff;
   font-size:24px;
-  opacity: 0.5;
+  opacity: 1;
   transition-duration: 0.3s;
 }
 .title:hover {
-  opacity: 1;
+  opacity: .5;
 }
-.logo {
-  opacity: 0.5;
-  transition-duration: 0.3s;
-}
-.logo:hover {
-  opacity: 1;
-}
+
 .opener-text {
   text-align: center;
   text-decoration: none;
