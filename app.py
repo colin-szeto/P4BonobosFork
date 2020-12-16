@@ -3,6 +3,7 @@ from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, BooleanField
 from wtforms.validators import InputRequired, Email, Length
+from flask_wtf.csrf import CSRFProtect, CSRFError
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
@@ -14,6 +15,9 @@ bootstrap = Bootstrap(app)
 db = SQLAlchemy(app)
 login_manager = LoginManager()
 login_manager.init_app(app)
+# IMPORTANT - GENERATES CSRF TOKEN
+csrf = CSRFProtect(app)
+csrf.init_app(app)
 login_manager.login_view = 'login'
 
 class User(UserMixin, db.Model):
@@ -87,7 +91,9 @@ def logout():
 	logout_user()
 	return redirect(url_for('home'))
 
-
+@app.errorhandler(CSRFError)
+def handle_csrf_error(e):
+    return render_template('csrf_error.html', reason=e.description), 400
 
 
 if __name__ == "__main__":
