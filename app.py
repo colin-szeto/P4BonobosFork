@@ -1,4 +1,4 @@
-from flask import Flask, render_template, redirect, url_for
+from flask import Flask, render_template, redirect, url_for, request
 from flask_bootstrap import Bootstrap
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, BooleanField
@@ -7,6 +7,8 @@ from flask_wtf.csrf import CSRFProtect, CSRFError
 from flask_sqlalchemy import SQLAlchemy
 from werkzeug.security import generate_password_hash, check_password_hash
 from flask_login import LoginManager, UserMixin, login_user, login_required, logout_user, current_user
+import requests as r
+import json as j
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'I<+g/P2N$}0GXOf'
@@ -40,10 +42,13 @@ class RegisterForm(FlaskForm):
     username = StringField('username', validators=[InputRequired(), Length(min=4, max=15)])
     password = PasswordField('password', validators=[InputRequired(), Length(min=8, max=80)])
 
-@app.route("/home")
+@app.route("/home", methods=['GET', 'POST'])
 @app.route("/")
 def home():
-    return render_template("index.html")
+	x = r.get("https://uselessfacts.jsph.pl/random.json?language=en")
+	data = j.loads(x.content)
+	fact = data.get("text")
+	return render_template("index.html", fact=fact)
 
 @app.route("/about")
 def about():
@@ -90,11 +95,6 @@ def dashboard():
 def logout():
 	logout_user()
 	return redirect(url_for('home'))
-
-@app.errorhandler(CSRFError)
-def handle_csrf_error(e):
-    return render_template('csrf_error.html', reason=e.description), 400
-
 
 if __name__ == "__main__":
     app.run(debug=True,)

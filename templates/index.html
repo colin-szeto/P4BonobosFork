@@ -1,6 +1,12 @@
 {% extends 'base.html' %}
 {% block homepage %}
+
+<form method="POST" action="/home">
+<input type="hidden" name="csrf_token" value="{{ csrf_token() }}"/>
 <p class="opener-text">Here's your randomly generated fact!</p>
-<center><p class="fact-text">Did you know ants alone make up 60% of all living weight on earth? simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p></center>
-<center><a class="generate-button" href="#action">Generate</a></center>
+<center><p class="fact-text facts">{{fact}}</p></center>
+
+<!-- <center><a type="submit" class="generate-button">Generate</a></center> -->
+<center><button type="submit" class="generate-button">Generate</button></center>
+</form>
 {% endblock %}
