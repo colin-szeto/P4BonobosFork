@@ -48,7 +48,7 @@ def home():
 	x = r.get("https://uselessfacts.jsph.pl/random.json?language=en")
 	data = j.loads(x.content)
 	fact = data.get("text")
-	return render_template("index.html", fact=fact)
+	return render_template("facts.html", fact=fact)
 
 @app.route("/about")
 def about():

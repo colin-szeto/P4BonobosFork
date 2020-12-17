@@ -1,8 +1,13 @@
 {% extends 'base.html' %}
-
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" href="../static/css/redirectforms.css">
+{% endblock %}
+{% block meta %}
+<meta http-equiv = "refresh" content = "3; url = /login" />
+{% endblock %}
 {% block content %}
-<h1>Invalid username or password</h1>
-<p>Click here to return to registration form.</p>
-<a href="login">Return</a>
+<h1 class="invalid-header">Invalid username or password</h1>
+<p class="loading invalid-redirect">Redirecting to login form</p>
 
 {% endblock %}
