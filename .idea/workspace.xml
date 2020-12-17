@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme">
-      <change beforePath="$PROJECT_DIR$/.idea/P4Bonobos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/P4Bonobos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-    </list>
+    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,33 +146,39 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608090353608" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1608152397021">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1324" height="202" key="GridCell.Tab.0.bottom" timestamp="1608238318913">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.bottom/0.0.1366.713@0.0.1366.713" timestamp="1608238318913" />
     <state width="1877" height="130" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397021" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1608152397020">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1324" height="202" key="GridCell.Tab.0.center" timestamp="1608238318910">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.center/0.0.1366.713@0.0.1366.713" timestamp="1608238318910" />
     <state width="1877" height="130" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
     <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1608152397020">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1324" height="202" key="GridCell.Tab.0.left" timestamp="1608238318910">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.left/0.0.1366.713@0.0.1366.713" timestamp="1608238318910" />
     <state width="1877" height="130" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
     <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1608152397020">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1324" height="202" key="GridCell.Tab.0.right" timestamp="1608238318911">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state width="1324" height="202" key="GridCell.Tab.0.right/0.0.1366.713@0.0.1366.713" timestamp="1608238318911" />
     <state width="1877" height="130" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state x="446" y="100" key="SettingsEditor" timestamp="1608151857809">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="317" y="0" key="SettingsEditor" timestamp="1608238259635">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state x="317" y="0" key="SettingsEditor/0.0.1366.713@0.0.1366.713" timestamp="1608238259635" />
     <state x="446" y="100" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1608151857809" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607721149408">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="304" y="151" key="Vcs.Push.Dialog.v2" timestamp="1608238700953">
+      <screen x="0" y="0" width="1366" height="713" />
     </state>
+    <state x="304" y="151" key="Vcs.Push.Dialog.v2/0.0.1366.713@0.0.1366.713" timestamp="1608238700953" />
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607721149408" />
     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607631723360">
       <screen x="0" y="0" width="1920" height="1050" />
