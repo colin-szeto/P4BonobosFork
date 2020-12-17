@@ -1,0 +1,154 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"ce4d8821-ba9b-4339-9ae0-4177a387bb52\" name=\"Default Changelist\" comment=\"did the readme\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/P4Bonobos.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/P4Bonobos.iml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/static/css/style.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/static/css/style.css\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/templates/about.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/templates/about.html\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1lLQROlWMhEtCukpC0Yq3jj71po\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"project.structure.last.edited\" value=\"SDKs\" />\n    <property name=\"project.structure.proportion\" value=\"0.15\" />\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\n  </component>\n  <component name=\"RunManager\" selected=\"Python.app\">\n    <configuration name=\"app\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"P4Bonobos\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/app.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"P4Bonobos\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"C:\\Users\\sammy\\venv\\Scripts\\python.exe\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.app\" />\n        <item itemvalue=\"Python.main\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"ce4d8821-ba9b-4339-9ae0-4177a387bb52\" name=\"Default Changelist\" comment=\"\" />\n      <created>1607373882991</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1607373882991</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"did the readme\">\n      <created>1607721144323</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1607721144323</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"did the readme\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"did the readme\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"440\" y=\"99\" key=\"#Project_Structure\" timestamp=\"1607373923226\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state x=\"440\" y=\"99\" key=\"#Project_Structure/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1607373923226\" />\n    <state x=\"414\" y=\"174\" width=\"1092\" height=\"715\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog\" timestamp=\"1607894286602\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1040\" />\n    </state>\n    <state x=\"414\" y=\"174\" width=\"1092\" height=\"715\" key=\"#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1607894286602\" />\n    <state x=\"740\" y=\"279\" key=\"FileChooserDialogImpl\" timestamp=\"1608090353608\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state x=\"740\" y=\"279\" key=\"FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090353608\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.bottom\" timestamp=\"1608090537595\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state width=\"1877\" height=\"130\" key=\"GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1607895296289\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090537595\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.center\" timestamp=\"1608090537595\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state width=\"1877\" height=\"130\" key=\"GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1607895296289\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090537595\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.left\" timestamp=\"1608090537595\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state width=\"1877\" height=\"130\" key=\"GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1607895296289\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090537595\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.right\" timestamp=\"1608090537595\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state width=\"1877\" height=\"130\" key=\"GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040\" timestamp=\"1607895296289\" />\n    <state width=\"1877\" height=\"285\" key=\"GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090537595\" />\n    <state x=\"518\" y=\"194\" key=\"SettingsEditor\" timestamp=\"1608090475117\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state x=\"518\" y=\"194\" key=\"SettingsEditor/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1608090475117\" />\n    <state x=\"320\" y=\"190\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1607721149408\">\n      <screen x=\"0\" y=\"0\" width=\"1440\" height=\"900\" />\n    </state>\n    <state x=\"320\" y=\"190\" key=\"Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900\" timestamp=\"1607721149408\" />\n    <state x=\"777\" y=\"438\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1607631723360\">\n      <screen x=\"0\" y=\"0\" width=\"1920\" height=\"1050\" />\n    </state>\n    <state x=\"777\" y=\"438\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050\" timestamp=\"1607631723360\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 0067b376287d1c22f609841e4e25ef0ded46f413)
++++ .idea/workspace.xml	(date 1608237943026)
+@@ -20,10 +20,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme">
+-      <change beforePath="$PROJECT_DIR$/.idea/P4Bonobos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/P4Bonobos.iml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -49,42 +46,21 @@
+     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+-    <property name="project.structure.last.edited" value="SDKs" />
++    <property name="project.structure.last.edited" value="Project" />
+     <property name="project.structure.proportion" value="0.15" />
+     <property name="project.structure.side.proportion" value="0.2" />
+   </component>
+-  <component name="RunManager" selected="Python.app">
+-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
++  <component name="RunManager">
++    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+       <module name="P4Bonobos" />
+       <option name="INTERPRETER_OPTIONS" value="" />
+       <option name="PARENT_ENVS" value="true" />
+       <envs>
+         <env name="PYTHONUNBUFFERED" value="1" />
+       </envs>
+-      <option name="SDK_HOME" value="" />
++      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+       <option name="IS_MODULE_SDK" value="true" />
+-      <option name="ADD_CONTENT_ROOTS" value="true" />
+-      <option name="ADD_SOURCE_ROOTS" value="true" />
+-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+-      <option name="PARAMETERS" value="" />
+-      <option name="SHOW_COMMAND_LINE" value="false" />
+-      <option name="EMULATE_TERMINAL" value="false" />
+-      <option name="MODULE_MODE" value="false" />
+-      <option name="REDIRECT_INPUT" value="false" />
+-      <option name="INPUT_FILE" value="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-      <module name="P4Bonobos" />
+-      <option name="INTERPRETER_OPTIONS" value="" />
+-      <option name="PARENT_ENVS" value="true" />
+-      <envs>
+-        <env name="PYTHONUNBUFFERED" value="1" />
+-      </envs>
+-      <option name="SDK_HOME" value="C:\Users\sammy\venv\Scripts\python.exe" />
+-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+-      <option name="IS_MODULE_SDK" value="false" />
+       <option name="ADD_CONTENT_ROOTS" value="true" />
+       <option name="ADD_SOURCE_ROOTS" value="true" />
+       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+@@ -98,7 +74,6 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-        <item itemvalue="Python.app" />
+         <item itemvalue="Python.main" />
+       </list>
+     </recent_temporary>
+@@ -143,46 +118,57 @@
+       <screen x="0" y="0" width="1920" height="1050" />
+     </state>
+     <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1607373923226" />
+-    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607894286602">
+-      <screen x="0" y="0" width="1920" height="1040" />
++    <state x="311" y="162" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608152556481">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607894286602" />
+-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1608090353608">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state x="311" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.829@0.23.1440.829" timestamp="1608152556481" />
++    <state x="415" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608151656088">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608090353608" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1608090537595">
++    <state x="415" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.829@0.23.1440.829" timestamp="1608151656088" />
++    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1607633067426">
+       <screen x="0" y="0" width="1920" height="1050" />
++    </state>
++    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1607633067426" />
++    <state width="1398" height="161" key="GridCell.Tab.0.bottom" timestamp="1608152571280">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state width="1877" height="130" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608090537595" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1608090537595">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1607659631294" />
++    <state width="1398" height="161" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1608152571280" />
++    <state width="1398" height="161" key="GridCell.Tab.0.center" timestamp="1608152571278">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state width="1877" height="130" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608090537595" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1608090537595">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1607659631294" />
++    <state width="1398" height="161" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1608152571278" />
++    <state width="1398" height="161" key="GridCell.Tab.0.left" timestamp="1608152571277">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state width="1877" height="130" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608090537595" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1608090537595">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1607659631294" />
++    <state width="1398" height="161" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1608152571277" />
++    <state width="1398" height="161" key="GridCell.Tab.0.right" timestamp="1608152571279">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state width="1877" height="130" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
+-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608090537595" />
+-    <state x="518" y="194" key="SettingsEditor" timestamp="1608090475117">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1607659631294" />
++    <state width="1398" height="161" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1608152571279" />
++    <state x="330" y="23" width="1024" height="829" key="SettingsEditor" timestamp="1608152316192">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+-    <state x="518" y="194" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1608090475117" />
++    <state x="440" y="99" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607659262071" />
++    <state x="330" y="23" width="1024" height="829" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1608152316192" />
+     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1607721149408">
+       <screen x="0" y="0" width="1440" height="900" />
+     </state>
+     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607721149408" />
+-    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607631723360">
+-      <screen x="0" y="0" width="1920" height="1050" />
++    <state x="583" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608151535584">
++      <screen x="0" y="23" width="1440" height="829" />
+     </state>
+     <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1607631723360" />
++    <state x="583" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.829@0.23.1440.829" timestamp="1608151535584" />
+   </component>
+   <component name="XSLT-Support.FileAssociations.UIState">
+     <expand />
