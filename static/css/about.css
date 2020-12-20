@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 .about-header {
   text-align: center;
   text-decoration: none;
@@ -17,20 +21,21 @@
   color:white;
   font-size:25px;
   position: relative;
-  top:35    px;
+  top:35px;
   width:900px;
   word-break:normal;
   padding-bottom: 0px;
 }
 
-.row {
-  top: 0px;
-  display: flex;
-  position: relative;
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .column {
-  flex: 25%;
+  float: left;
+  width: 25%;
   padding: 50px;
 }
 
@@ -38,7 +43,7 @@
   border-radius: 50%;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .column {
     width: 100%;
   }
