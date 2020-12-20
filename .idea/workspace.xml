@@ -19,7 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme" />
+    <list default="true" id="ce4d8821-ba9b-4339-9ae0-4177a387bb52" name="Default Changelist" comment="did the readme">
+      <change afterPath="$PROJECT_DIR$/static/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_20__12_44_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_20__12_44_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_20__12_49_AM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_11_20__12_49_AM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_14_20__12_26_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_14_20__12_26_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_16_20__12_44_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_16_20__12_44_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__12_49_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__12_49_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__1_01_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__1_01_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__1_01_PM__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_17_20__1_01_PM__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +72,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\sammy\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
@@ -91,6 +107,10 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.main" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.app" />
@@ -132,58 +152,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="did the readme" />
     <option name="LAST_COMMIT_MESSAGE" value="did the readme" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="440" y="99" key="#Project_Structure" timestamp="1607373923226">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="440" y="99" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1607373923226" />
-    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607894286602">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="414" y="174" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607894286602" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1608090353608">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1608090353608" />
-    <state width="1324" height="202" key="GridCell.Tab.0.bottom" timestamp="1608238318913">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state width="1324" height="202" key="GridCell.Tab.0.bottom/0.0.1366.713@0.0.1366.713" timestamp="1608238318913" />
-    <state width="1877" height="130" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397021" />
-    <state width="1324" height="202" key="GridCell.Tab.0.center" timestamp="1608238318910">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state width="1324" height="202" key="GridCell.Tab.0.center/0.0.1366.713@0.0.1366.713" timestamp="1608238318910" />
-    <state width="1877" height="130" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state width="1324" height="202" key="GridCell.Tab.0.left" timestamp="1608238318910">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state width="1324" height="202" key="GridCell.Tab.0.left/0.0.1366.713@0.0.1366.713" timestamp="1608238318910" />
-    <state width="1877" height="130" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state width="1324" height="202" key="GridCell.Tab.0.right" timestamp="1608238318911">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state width="1324" height="202" key="GridCell.Tab.0.right/0.0.1366.713@0.0.1366.713" timestamp="1608238318911" />
-    <state width="1877" height="130" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607895296289" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1608152397020" />
-    <state x="317" y="0" key="SettingsEditor" timestamp="1608238259635">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state x="317" y="0" key="SettingsEditor/0.0.1366.713@0.0.1366.713" timestamp="1608238259635" />
-    <state x="446" y="100" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1608151857809" />
-    <state x="304" y="151" key="Vcs.Push.Dialog.v2" timestamp="1608238700953">
-      <screen x="0" y="0" width="1366" height="713" />
-    </state>
-    <state x="304" y="151" key="Vcs.Push.Dialog.v2/0.0.1366.713@0.0.1366.713" timestamp="1608238700953" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1607721149408" />
-    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607631723360">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="777" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050@0.0.1920.1050" timestamp="1607631723360" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

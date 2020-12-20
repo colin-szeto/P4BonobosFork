@@ -1,34 +1,46 @@
 {% extends 'base.html' %}
 {% block aboutpage %}
 
+{% block styles %}
+<link rel="stylesheet" href="../static/css/about.css" type="text/css">
+{% endblock %}
+
 <h1 class="about-header">About Us</h1>
-<center><p class="about-body">Our Dysfunctional Scrum Team</p></center>
+<center><p class="about-body">Del Norte AP Computer Science Principles - P4 Bonobos</p></center>
 
 <div class="row">
     <div class="column">
         <img class="face" src="../static/media/paul.png" alt="Paul" style="width:100%">
         <p class="face-name">Paul Bokelman</p>
-        <p class="face-text">Does everything</p>
+        <p class="face-text">Scrum Master - Backend</p>
+        <a href="https://github.com/Astropolitans">
+            <p class="face-text"><span style="vertical-align:middle; padding-right:10px;" class="fab fa-github fa-2x"></span>Astropolitans</p>
+        </a>
     </div>
     <div class="column">
         <img class="face" src="../static/media/kenzie.png" alt="Kenzie" style="width:100%">
         <p class="face-name">Mackenzie Aboy</p>
-        <p class="face-text">Does something idk</p>
+        <p class="face-text">Scrumling - Frontend</p>
+        <a href="https://github.com/kenzie-rylie">
+            <p class="face-text"><span style="vertical-align:middle; padding-right:10px;" class="fab fa-github fa-2x"></span>kenzie-rylie</p>
+        </a>
     </div>
     <div class="column">
         <img class="face" src="../static/media/anthony.png" alt="Anthony" style="width:100%">
         <p class="face-name">Anthony Giustiniano</p>
-        <p class="face-text">Doesn't know how to code</p>
+        <p class="face-text">Scrumling - Frontend</p>
+        <a href="https://github.com/Giustanthony">
+            <p class="face-text"><span style="vertical-align:middle; padding-right:10px;" class="fab fa-github fa-2x"></span>Giustanthony</p>
+        </a>
     </div>
     <div class="column">
         <img class="face" src="../static/media/sam.png" alt="Sam" style="width:100%">
         <p class="face-name">Sam Koenig</p>
-        <p class="face-text">Does some stuff</p>
+        <p class="face-text">Scrumling - Frontend</p>
+        <a href="https://github.com/samkoenig9">
+            <p class="face-text"><span style="vertical-align:middle; padding-right:10px;" class="fab fa-github fa-2x"></span>samkoenig9</p>
+        </a>
     </div>
 </div>
-
-
-
-
 
 {% endblock %}

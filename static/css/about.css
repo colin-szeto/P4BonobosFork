@@ -1,0 +1,67 @@
+.about-header {
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  color:white;
+  font-size:35px;
+  position: relative;
+  top:30px;
+}
+
+.about-body {
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color:white;
+  font-size:25px;
+  position: relative;
+  top:35    px;
+  width:900px;
+  word-break:normal;
+  padding-bottom: 0px;
+}
+
+.row {
+  top: 0px;
+  display: flex;
+  position: relative;
+}
+
+.column {
+  flex: 25%;
+  padding: 50px;
+}
+
+.face {
+  border-radius: 50%;
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.face-name {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color:white;
+    font-size:35px;
+}
+
+.face-text {
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color:white;
+    font-size:25px;
+}
+
+a {
+    text-decoration: none;
+}
