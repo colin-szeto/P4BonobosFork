@@ -45,10 +45,11 @@ class RegisterForm(FlaskForm):
 @app.route("/home", methods=['GET', 'POST'])
 @app.route("/")
 def home():
-	x = r.get("https://uselessfacts.jsph.pl/random.json?language=en")
+	return  render_template("temp.html")
+	"""x = r.get("https://uselessfacts.jsph.pl/random.json?language=en")
 	data = j.loads(x.content)
 	fact = data.get("text")
-	return render_template("facts.html", fact=fact)
+	return render_template("facts.html", fact=fact)"""
 
 @app.route("/about")
 def about():
